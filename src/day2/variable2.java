@@ -40,6 +40,7 @@ public class variable2 {
 		 System.out.println(x1 + x2);
 		 System.out.println(number + x2);
 		 System.out.println(number + x2 + name1 + name2);
+		System.out.println(number + x2 + x1);
 		 
 		 
 		
